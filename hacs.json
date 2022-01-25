@@ -1,0 +1,6 @@
+{
+  "name": "Beaudoin Home Assistant Artnet",
+  "domains": ["light"],
+  "render_readme": true,
+  "iot_class": ["Assumed State", "Local Push"]
+}
