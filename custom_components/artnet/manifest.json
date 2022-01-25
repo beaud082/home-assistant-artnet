@@ -1,5 +1,5 @@
 {
-  "domain": "dmx",
+  "domain": "artnet",
   "name": "DMX Artnet integration",
   "documentation": "https://github.com/spacemanspiff2007/home-assistant-artnet",
   "dependencies": [],
